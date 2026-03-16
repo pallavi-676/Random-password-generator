@@ -49,7 +49,7 @@ password-generator
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/pallavi-676/password-generator.git
 ```
 
 2. Navigate into the project folder
