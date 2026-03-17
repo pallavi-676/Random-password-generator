@@ -49,13 +49,13 @@ password-generator
 1. Clone the repository
 
 ```
-git clone https://github.com/pallavi-676/password-generator.git
+git clone https://github.com/pallavi-676/random-password-generator.git
 ```
 
 2. Navigate into the project folder
 
 ```
-cd password-generator
+cd random-password-generator
 ```
 
 3. Install required dependency
@@ -71,7 +71,8 @@ pip install customtkinter
 Run the Python file:
 
 ```
-python password_generator.py
+python random-<img width="506" height="495" alt="Screenshot 2026-03-14 at 17 17 09" src="https://github.com/user-attachments/assets/24fca3f4-2368-4fa8-95d2-053eab1cb923" />
+password_generator.py
 ```
 
 The **Password Generator window** will open and you can start generating secure passwords.
