@@ -17,6 +17,14 @@ The application features a **modern dark UI**, **password strength indicator**, 
 * 🎨 Modern **dark theme UI**
 * ⚡ Smooth and responsive interface
 
+---
+
+## 💻 Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d5d0657-ca96-415f-8933-ce8893da22fe" width="45%" style="margin-right:10px;" /> 
+  <img src="https://github.com/user-attachments/assets/4dce194f-2bf9-492e-b8be-9aa5ec894cae" width="45%" />
+</p>
 
 
 
@@ -71,8 +79,7 @@ pip install customtkinter
 Run the Python file:
 
 ```
-python random-<img width="506" height="495" alt="Screenshot 2026-03-14 at 17 17 09" src="https://github.com/user-attachments/assets/24fca3f4-2368-4fa8-95d2-053eab1cb923" />
-password_generator.py
+python random-password_generator.py
 ```
 
 The **Password Generator window** will open and you can start generating secure passwords.
@@ -112,6 +119,6 @@ G7!kP@9zL#4q
 
 Created as a learning for **Python GUI development and cybersecurity basics**.
 
-
+--- 
 
 
